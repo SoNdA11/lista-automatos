@@ -21,14 +21,14 @@ Extensão dos autômatos finitos com o uso de uma pilha como memória auxiliar. 
 
 Este projeto foi desenvolvido por:
 
-- **Paulo Sérgio**  
 - **Eduardo Marinho**  
 - **Marcos Eduardo**  
+- **Paulo Sérgio**  
 - **Yálamo Thiago**  
+- **João Douglas**  
 
 ---
 
 ## 📚 Sobre o Projeto
 Este trabalho foi realizado como parte da disciplina Linguagens Formais e Autômatos, do curso de Ciência da Computação na Universidade do Estado do Rio Grande do Norte (UERN).
 O objetivo principal é consolidar o entendimento sobre autômatos e seus papéis no reconhecimento de linguagens formais. As implementações fornecem uma base prática para explorar conceitos como determinismo, não-determinismo e uso de memória auxiliar (pilha). 
-
